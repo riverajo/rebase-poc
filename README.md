@@ -1,5 +1,5 @@
 # rebase-poc
-a simple example to show how to rebase out-of-date
+a simple example to show how to rebase and generate a conflict
 
 I'm adding a simple commit here to demonstrate a PR.
 
