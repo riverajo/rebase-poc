@@ -7,4 +7,6 @@ Adding another line to demonstrate "out-of-date"
 
 This line is a super-cool new feature.
 
+This is the next mind-blowing feature.
+
 Squashing bugs and taking names.
